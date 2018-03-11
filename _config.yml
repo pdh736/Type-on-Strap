@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl:
+baseurl:/pdh736.github.io
 url: "https://pdh736.github.io"
 
 # THEME-SPECIFIC CONFIGURATION

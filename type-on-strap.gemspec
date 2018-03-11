@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["sylhare@outlook.com", "hellorohan@outlook.com"]
 
   spec.summary       =  "A simple and responsive jekyll theme template"
-  spec.description   = %q{A custom Type Theme template (a free and open-source Jekyll theme). Great for blogs, easy to customize and responsive.}
+  spec.description   = "HOME"
   spec.homepage      = "https://github.com/sylhare/Type-on-Strap"
   spec.license       = "MIT"
 
