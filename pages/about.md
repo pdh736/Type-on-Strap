@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Test]
+tags: [About]
 ---
 <!--
 Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
@@ -17,4 +17,5 @@ Park Dae hee
 live in korea, seongnam
 
 contact to me : e-mail <br> cell phone
+<font color="#FF0000">test</font>
  

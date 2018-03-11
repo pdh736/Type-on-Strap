@@ -2,8 +2,8 @@
 layout: post
 title: ALIND
 img: "assets/img/portfolio/ninja.png"
-date: April, 08 2014
-tags: [Lorem]
+date: March, 9 2018
+tags: [ALIND, portfolio]
 ---
 <!--
 ![image]({{ site.baseurl }}/{{ page.img }})
