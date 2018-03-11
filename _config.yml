@@ -9,7 +9,7 @@ theme_settings:
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "portfoilo" # used by search engines
+  description: "portfoilo"
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
