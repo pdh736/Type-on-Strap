@@ -19,6 +19,15 @@ live in korea, seongnam
 contact to me : e-mail <br> cell phone
 
 
+
+<div class="container" style="padding:20px;">
+  <div id="skills" class="section scrollspy">
+   <h3 style="text-align:center;">Tools and Experience</h3>
+   {% include skills.html %}
+ </div>
+</div>
+
+
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
