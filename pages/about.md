@@ -18,4 +18,23 @@ live in korea, seongnam
 
 contact to me : e-mail <br> cell phone
 
+
+syntax_highlighting: true
+# Skill icons from https://konpa.github.io/devicon/
+
+skills:
+  - name: atom
+  - name: c
+  - name: chrome
+  - name: facebook
+  - name: git
+  - name: github
+  - name: google
+  - name: html5
+  - name: ie10
+  - name: linux
+
+icon_size: 50 # font-size of icons in px
+colored: colored # Leave blank for black and white icons
+
  
