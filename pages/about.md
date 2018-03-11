@@ -10,6 +10,6 @@ Park Dae hee
 
 live in korea, seongnam
 
-contact to me : e-mail <br> cell phone
+contact me to click bottom email-icon
 
  
