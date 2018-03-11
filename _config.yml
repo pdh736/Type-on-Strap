@@ -6,10 +6,10 @@ url: "https://pdh736.github.io"
 theme_settings:
   # Meta
   title: ParkD
-  avatar: <!--assets/img/triangle.svg-->
+  avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "portfoilo" # used by search engines
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
