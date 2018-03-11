@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALIND
-img: "assets/img/portfolio/ninja.png"
+img: "assets/img/portfolio/ALIND"
 date: March, 9s 2018
 tags: [ALIND, portfolio]
 ---
