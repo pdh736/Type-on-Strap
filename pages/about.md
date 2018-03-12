@@ -12,4 +12,7 @@ live in korea, seongnam
 
 If you want to contact me please click e-mail icon
 
+
+{% if site.disqus-shortname %}{% include disqus.html %}{% endif %}
+
  
